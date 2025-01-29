@@ -32,7 +32,7 @@ const Feed = () => {
         }}
       >
         <Sidebar  selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory}/>
-        
+{/*         Commented changes */}
 {/*         <Typography
           className="copyright"
           variant="body2" 
