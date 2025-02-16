@@ -14,7 +14,8 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
 
 // export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
-export const logo = "https://i.ibb.co/0Y3jvg1/logo.png";
+// export const logo = "https://i.ibb.co/0Y3jvg1/logo.png";
+export const logo = "https://i.ibb.co/3mXQHCnS/media-tube-logo.png";
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
